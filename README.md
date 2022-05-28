@@ -1,4 +1,4 @@
-# vexere_Backend
+# vexere_Backend_v2
  
  ## Cách khởi tạo project với yarn
 
